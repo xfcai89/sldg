@@ -7,7 +7,7 @@ convservative semi-Lagrangian discontinuous Galerkin package
 
 - Solving Vlasov-Poisson equations: [Communications on Applied Mathematics and Computation](https://doi.org/10.1007/s42967-020-00088-0)
 
-- SLDG coupled with the exponential integrators for nonlinear tranport problems: [Arxiv](https://arxiv.org/abs/1911.12229)
+- SLDG coupled with the exponential integrators for nonlinear tranport problems: [Journal of Computational Physics](https://doi.org/10.1016/j.jcp.2020.110036)
 
 
 ## Build Requirement:
