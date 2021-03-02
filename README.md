@@ -22,3 +22,5 @@ Complier: Fortran 2003
 **sldg_2d_nonsplitting**: This folder contains the conservative SLDG schemes for 2D linear transport problems
 
 **VP**: This folder contains the conservative SLDG schemes with different methods for nonlinear transport problems
+
+- If you have questions, please send email to xfcai@bnu.edu.cn
